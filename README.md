@@ -179,5 +179,3 @@ This repository contains over 100 Python practice questions categorized by topic
 110. Simple Chatbot with conditionals  
 
 ---
-
-> ✅ Challenge Yourself: Try solving 2–3 questions every day. Create folders to organize each topic and track your progress by marking each problem as done ✅.
