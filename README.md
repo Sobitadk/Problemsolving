@@ -7,16 +7,18 @@ This repository contains over 100 Python practice questions categorized by topic
 
 ## 📚 Table of Contents
 
-1. [Basics](#1-basics)  
-2. [Control Flow (if/else, loops)](#2-control-flow-ifelse-loops)  
-3. [Functions](#3-functions)  
-4. [Data Structures](#4-data-structures)  
-5. [String Manipulation](#5-string-manipulation)  
-6. [File Handling](#6-file-handling)  
-7. [Object-Oriented Programming](#7-object-oriented-programming)  
-8. [Error Handling](#8-error-handling)  
-9. [Advanced Topics](#9-advanced-topics)  
-10. [Mini Projects](#10-mini-projects)
+- [🐍 Python Practice Questions (100+ Exercises)](#-python-practice-questions-100-exercises)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [1. Basics](#1-basics)
+  - [2. Control Flow (if/else, loops)](#2-control-flow-ifelse-loops)
+  - [3. Functions](#3-functions)
+  - [4. Data Structures](#4-data-structures)
+  - [5. String Manipulation](#5-string-manipulation)
+  - [6. File Handling](#6-file-handling)
+  - [7. Object-Oriented Programming](#7-object-oriented-programming)
+  - [8. Error Handling](#8-error-handling)
+  - [9. Advanced Topics](#9-advanced-topics)
+  - [10. Mini Projects](#10-mini-projects)
 
 ---
 
@@ -48,8 +50,8 @@ This repository contains over 100 Python practice questions categorized by topic
 19. Print the Fibonacci sequence  
 20. Find the factorial of a number  
 21. Generate a simple number triangle pattern  
-22. Generate a pyramid pattern of stars  
-23. Find the sum of digits of a number  
+22. Generate a pyramid pattern of stars 
+23. Find the sum of digits of  a number  
 24. Reverse a number using a loop  
 25. Count the number of digits in an integer  
 
